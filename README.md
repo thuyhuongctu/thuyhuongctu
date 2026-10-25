@@ -2,7 +2,7 @@
 
 # Đỗ Thùy Hương
 
-**PhD Candidate in Business Administration** · School of Economics, Can Tho University
+**PhD Candidate in Business Administration** · School of Economics, Can Tho University<br>
 Lecturer and researcher in international business
 
 [![Website](https://img.shields.io/badge/jemappellehuong.com-c45c3a?style=flat-square)](https://jemappellehuong.com)
