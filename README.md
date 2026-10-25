@@ -29,8 +29,11 @@ Two manuscripts carry the core of the programme:
   relationship in 50 Asian and Pacific economies: a two-stage random-coefficient
   design.** WBES firm-level data, 107 country-year waves, matched to the WGI.
 - **Institutional context, digital adoption, and the internationalization–performance
-  relationship: a three-level meta-analysis.** *k* = 236 studies, *K* = 286 effect
-  sizes, 49 economies.
+  relationship: a three-level meta-analysis.** Coding table under re-audit against the
+  primary studies. Analysis plan registered on OSF on 18 May 2026
+  ([10.17605/OSF.IO/Z37KN](https://doi.org/10.17605/OSF.IO/Z37KN)); audit and re-analysis
+  plan registered on 25 October 2026
+  ([10.17605/OSF.IO/K5CZT](https://doi.org/10.17605/OSF.IO/K5CZT)).
 
 **Interests** — internationalization strategy · firm performance · institutional
 quality in emerging markets · meta-analysis and multilevel modelling · research
